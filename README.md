@@ -6,7 +6,7 @@
 
 - 🏫 French high-schooler
 - 👨‍💻 Passionate about IT
-- 🎮 Owner of "Nekupa Studio"
+- 🎮 Owner of [Nekupa Studio](https://github.com/Nekupa-Studio)
 - 🕸 Not that good of a web dev
 - 🤖 Godot enjoyer
 
