@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello there ! 👋
 
-<!--
-**VoidScientist/VoidScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my Github Profile**, where I try to better my programming skills ! 
 
-Here are some ideas to get you started:
+## Who Am I ? 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 French high-schooler
+- 👨‍💻 Passionate about IT
+- 🎮 Owner of "Nekupa Studio"
+- 🕸 Not that good of a web dev
+- 🤖 Godot enjoyer
+
+## What Am I Working On ? 🤔
+
+- 🕸 A portfolio website
+- 🧠 Learning Neural Networks
+- ✈ Some game about planes
+  - 🔗 Check [Nekupa Studio](https://github.com/Nekupa-Studio) if interested ! 
+
+## What Languages do I know ? 🖥
+
+- 🐍 Python
+- 🟠 Lua
+- 🍵 Java
+
+## What'd I Like To Do ⌛
+
+- 💾 Engineer in IT
+- 📜 Contribute to [Godotengine](https://github.com/godotengine/godot)
