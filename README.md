@@ -13,7 +13,7 @@
 ## What Am I Working On ? 🤔
 
 - 🕸 [A portfolio website](https://voidscientist.github.io)
-- 🧠 Learning Neural Networks
+- 🧠 Learning AI
 - ✈ Some game about planes
   - 🔗 Check [Nekupa Studio](https://github.com/Nekupa-Studio) if interested ! 
 
