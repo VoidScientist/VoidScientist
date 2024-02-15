@@ -1,6 +1,6 @@
 # Hello there ! 👋
 
-**Welcome to my Github Profile**, where I try to better my programming skills ! 
+**Welcome to my Github Profile**, where I try <a style="color:#005500">to</a> better my programming skills ! 
 
 ## Who Am I ? 💡
 
